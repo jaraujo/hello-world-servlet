@@ -16,10 +16,8 @@
 			<version>3.1.0</version>
             <scope>provided</scope>
         </dependency>
-		
-    
   </dependencies>
-    <build>
+
  <build>
     <finalName>getting-started-tomcat</finalName>
       <plugins>
@@ -33,4 +31,3 @@
       </plugins>
   </build>
 </project>
-	
