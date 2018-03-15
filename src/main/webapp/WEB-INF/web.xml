@@ -6,13 +6,13 @@
     <display-name>Hello World Servlet</display-name>
 
     <servlet>
-        <servlet-name>hello</servlet-name>
+        <servlet-name>HelloWorldServlet</servlet-name>
         <servlet-class>com.geekcap.vmturbo.HelloWorldServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>hello</servlet-name>
+        <servlet-name>HelloWorldServlet</servlet-name>
         <url-pattern>/</url-pattern>
     </servlet-mapping>
 
